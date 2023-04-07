@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Kimani Mungai",
+    "label": "Student",
+    "picture": "https://github.com/ki3ani.png",
+    "email": "kimanim68@gmail.com",
+    "phone": "+254701085745",
+    "website": "https://ki3ani.github.io",
+    "summary": "I am studying for a B.S. in BBIT in the Department of Information and Computer Sciences at Strathmore University. I expect to graduate in Summer, 2024.",
+    "location": { "address": "", "postalCode": "00100", "city": "Nairobi", "countryCode": "KE", "region": "Kenya" },
+    "profiles": [
+      { "network": "github", "username": "ki3ani", "url": "http://github.com/ki3ani" },
+      { "network": "linkedin", "username": "kenneth-mungai-129301157", "url": "http://linkedin.com/in/kenneth-mungai-129301157" },
+      { "network": "twitter", "username": "ki3ani", "url": "http://twitter.com/ki3ani" },
+      { "network": "instagram", "username": "ki3ani", "url": "http://instagram.com/ki3ani" }
+    ]
+  },
+  "interests": [
+    { "name": "Database Design" },
+    { "name": "API Design" },
+    { "name": "Machine Learning" },
+    { "name": "Web Development" },
+    { "name": "Serverless" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "Javascript", "SQL", "Golang", "Django", "React" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "AWS", "Ubuntu", "Git/GitHub", "Cloud" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Strathmore University, Nairobi, KE",
+      "area": "BBIT (expected Summer, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-04-05",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "BloomsField School",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for BloomsField",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "ROTA,",
+      "position": "Graphic Design",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
