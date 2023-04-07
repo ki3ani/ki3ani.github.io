@@ -1,35 +1,35 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kimani Mungai",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/ki3ani.png",
+    "email": "kimanim68@gmail.com",
+    "phone": "+254701085745",
+    "website": "https://ki3ani.github.io",
+    "summary": "I am studying for a B.S. in BBIT in the Department of Information and Computer Sciences at Strathmore University. I expect to graduate in Summer, 2024.",
+    "location": { "address": "", "postalCode": "00100", "city": "Nairobi", "countryCode": "KE", "region": "Kenya" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ki3ani", "url": "http://github.com/ki3ani" },
+      { "network": "linkedin", "username": "kenneth-mungai-129301157", "url": "http://linkedin.com/in/kenneth-mungai-129301157" },
+      { "network": "twitter", "username": "ki3ani", "url": "http://twitter.com/ki3ani" },
+      { "network": "instagram", "username": "ki3ani", "url": "http://instagram.com/ki3ani" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Database Design" },
+    { "name": "API Design" },
+    { "name": "Machine Learning" },
+    { "name": "Web Development" },
+    { "name": "Serverless" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "Javascript", "SQL", "Golang", "Django", "React" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "AWS", "Ubuntu", "Git/GitHub", "Cloud" ]
     }
   ],
   "education": [
